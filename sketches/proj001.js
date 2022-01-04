@@ -21,8 +21,8 @@ const sketch = () => {
       // Random positions and dimensions - Rectangles
       let rect_x = width * random.range(0,1);
       let rect_y = height * random.range(0.1,0.6);
-      let w = width * random.range(0.2,1);
-      let h =height*random.range(0.1,0.5);
+      let w = width * random.range(0.2,0.7);
+      let h = height*random.range(0.1,0.5);
       // Draw
       context.beginPath();
       context.fillStyle = rect_list_colours[i];
@@ -35,7 +35,7 @@ const sketch = () => {
       // Random positions and dimensions -  Circles
       let circ_x = width * random.range(0,1);
       let circ_y = height * random.range(0,0.5);
-      let radius = width * random.range(0.1,0.5);
+      let radius = width * random.range(0.1,0.4);
       // Draw
       context.beginPath();
       context.fillStyle = circ_list_colours[i]
