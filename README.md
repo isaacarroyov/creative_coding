@@ -25,7 +25,7 @@ In this GitHub repository, you can watch my JavaScript progress as I create diff
 Some of them could be data-related, and others would be just random stuff :sweat_smile:
 
 ## Content
-Each project has its folder and a **`README.md`** file with a description (if it's necessary) and the link 
+Each project has its folder with a **`README.md`** file with a description (if it's necessary) and the link 
 to the source code.
 
 * [Project 001](https://github.com/isaacarroyov/creative_coding/tree/main/projects/001): 
