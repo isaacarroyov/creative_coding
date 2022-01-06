@@ -30,3 +30,4 @@ to the source code.
 
 * [Project 001](https://github.com/isaacarroyov/creative_coding/tree/main/projects/001): 
 **"Out of Context Figures: Circles and Rectangles"**
+* Project 002: **NO-NAME**
